@@ -1,18 +1,11 @@
 # PHSX815 Spring 2021 Week 8
 
-## Parameter Estimation & Maximum Likelihood
+## Numerical Minimization, Parameter Fitting, and Neural Networks
 
 This repository contains the following program(s):
 
-- `HW8/Neyman.x` : an adaptation of the macro found at `crogan/PHSX815_Week8` to
-                   run from the command line with the addition of several
-                   options such as choice of distribution (between
-                   pre-configured a Gaussian and a new exponential dist),
-                   number of measurements per experiment, and which "slice" to
-                   view. Also automatically saves the plots to picture files.
-                   [C++]
-- `HW9/Minimize.x` : minimizes the function sin(x)*e^(-x^2) and outputs the
-                   results [C++]
+- `HW10/Minimize.x` : minimizes a negative gaussian with x mean = pi and
+                      y mean = 0 and outputs the results [C++]
 
 ### Requirements
 
