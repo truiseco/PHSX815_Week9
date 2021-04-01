@@ -13,10 +13,9 @@ using std::exp, std::sin;
 
 // Program-specific helper function declarations
 /**
- * Identical string comparison function
- * param a: first string to be compared
- * param b: second string to be compared
- * return 1 if a & b are identical character-wise and in length, 0 otherwise
+ * Negative Gaussian
+ * param x: double pointer representing the coordinates
+ * return the value of the negative gaussian with x mean pi and y mean 0
  */
 double NeGauss(const double *x){
   const double t = (x[0] - 3.14159265);
