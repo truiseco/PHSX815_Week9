@@ -1,4 +1,4 @@
-# PHSX815 Spring 2021 Week 8
+# PHSX815 Spring 2021 Week 9
 
 ## Numerical Minimization, Parameter Fitting, and Neural Networks
 
